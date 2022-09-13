@@ -70,3 +70,11 @@ df.isnull().sum()
  
 ![image](https://user-images.githubusercontent.com/94165327/189481757-9026c499-2492-430b-8796-03257b346dc2.png)
 
+
+RESULT:
+
+ Hence the given data is read  and perform data cleaning and save the cleaned data to a file.
+
+
+
+
